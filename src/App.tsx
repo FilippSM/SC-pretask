@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import styled from 'styled-components';
-import rectangleimage from './Rectangle.png'
+import rectangleimage from './assests/images/Rectangle.png'
 
 
 function App() {
