@@ -66,6 +66,7 @@ const ButtonOne = styled.button`
   color: #fff;
 `;
 
+//наследование
 const ButtonTwo = styled(ButtonOne)`
   border: 2px solid #4e71fe;
   background: none;
