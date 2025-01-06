@@ -64,7 +64,7 @@ const Content = styled.div`
     padding: 20px 10px 0px; //можно убрать верхний паддинг и задать нижний паддинг для Img в этом случает Img толкает Content
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 100%; // чтобы кнопки прижимались которые в контенте ко дну независимо от количества контента
 
 `
 
